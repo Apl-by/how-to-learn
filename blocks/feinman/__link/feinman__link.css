@@ -11,6 +11,7 @@
 
 .feinman__link:hover {
   background-color: khaki;
-  text-decoration: underline;
-  color: indigo;
+  color: purple;
+  opacity: .8;
+  transition: opacity .5s linear, background-color .6s ease-in-out, color .6s ease-in-out;
 }

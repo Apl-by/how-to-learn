@@ -5,5 +5,7 @@
 
 .footer__column-link:hover {
   background-color: khaki;
-  color: indigo;
+  color: purple;
+  opacity: .8;
+  transition: opacity .5s linear, background-color .6s ease-in-out, color .6s ease-in-out;
 }

@@ -45,6 +45,9 @@
 /* block digits */
 @import url('../blocks/digits/digits.css');
 
+/* block khan */
+@import url('../blocks/khan/khan.css');
+
 /* block table & block`s modifier */
 @import url('../blocks/table/table.css');
 @import url('../blocks/table/_theme/table_theme_dark.css');
@@ -55,12 +58,9 @@
 /* block kaufman */
 @import url('../blocks/kaufman/kaufman.css');
 
+/* block resources */
+@import url('../blocks/resources/resources.css');
+
 /* block footer */
 @import url('../blocks/footer/footer.css');
 
-
-* {
-  outline-width: 1px;
-  outline-style: solid;
-  outline-color: red;
-}

@@ -13,5 +13,5 @@
   background-color: khaki;
   color: purple;
   opacity: .8;
-  transition: opacity .5s linear, background-color .6s ease-in-out, color .6s ease-in-out;
+  transition: opacity .5s linear, background-color .3s ease-in-out, color .3s ease-in-out;
 }

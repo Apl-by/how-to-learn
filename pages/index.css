@@ -19,17 +19,8 @@
 /* block description */
 @import url('../blocks/description/description.css');
 
-/* block techniques */
-@import url('../blocks/techniques/techniques.css');
-
-/* block cards */
-@import url('../blocks/cards/cards.css');
-
 /* block two-columns */
 @import url('../blocks/two-columns/two-columns.css');
-
-/* block digits */
-@import url('../blocks/digits/digits.css');
 
 /* block section-title & block`s modifier*/
 @import url('../blocks/section-title/section-title.css');
@@ -38,6 +29,21 @@
 /* block section-subtitle & block`s modifier*/
 @import url('../blocks/section-subtitle/section-subtitle.css');
 @import url('../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css');
+
+/* block techniques */
+@import url('../blocks/techniques/techniques.css');
+
+/* block video  */
+@import url('../blocks/video/video.css');
+
+/* block oakley */
+@import url('../blocks/oakley/oakley.css');
+
+/* block cards */
+@import url('../blocks/cards/cards.css');
+
+/* block digits */
+@import url('../blocks/digits/digits.css');
 
 /* block table & block`s modifier */
 @import url('../blocks/table/table.css');
